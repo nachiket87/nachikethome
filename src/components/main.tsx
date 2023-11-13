@@ -113,7 +113,7 @@ export default async function Main({ lang }: { lang: string }) {
               />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/nachiketpusalkar"
+              href="https://www.github.com/nachiket87"
               rel="noopener noreferrer"
               target="_blank"
             >
