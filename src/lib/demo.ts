@@ -18,7 +18,7 @@ export const demos: { name: string; items: Item[] }[] = [
         name: 'Collab Machine',
         slug: '',
         description:
-          'A marketplace application build on Ruby on Rails to connect freelancers with projects.',
+          'A marketplace application built on Ruby on Rails to connect freelancers with projects.',
       },
     ],
   },

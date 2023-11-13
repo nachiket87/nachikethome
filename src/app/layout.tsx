@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en" className="[color-scheme:dark]">
       <body className="bg-gray-1100 overflow-y-scroll bg-[url('/grid.svg')] pb-36">
         <div>
-          <div className="mx-auto max-w-4xl space-y-8 px-2 pt-20 lg:px-8 lg:py-8">
+          <div className="mx-auto space-y-8 px-2 pt-20 lg:px-8 lg:py-8">
             {children}
           </div>
         </div>
