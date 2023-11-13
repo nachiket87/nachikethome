@@ -1,0 +1,10 @@
+{
+  "bio": {
+    "intro": "Hi! My name is Nachiket! I'm a Full Stack Developer!",
+    "residence": "I live in Montreal, Quebec",
+    "favourite": "My favourite programming languages are Javascript and Ruby"
+  },
+  "experience": {
+    "header": "What I've worked on"
+  }
+}

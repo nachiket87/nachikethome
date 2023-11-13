@@ -1,5 +1,5 @@
 import Main from '@/components/main';
 
 export default function Home() {
-  return <Main lang="en" />;
+  return <Main lang="fr" />;
 }

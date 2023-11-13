@@ -1,0 +1,10 @@
+{
+  "bio": {
+    "intro": "Salut ! Je m'appelle Nachiket ! Je suis un développeur Full Stack !",
+    "residence": "J'habite à Montréal, Québec",
+    "favourite": "Mes langages de programmation préférés sont JavaScript et Ruby"
+  },
+  "experience": {
+    "header": "Ce sur quoi j'ai travaillé"
+  }
+}
