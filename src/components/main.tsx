@@ -122,7 +122,21 @@ export default async function Main({ lang }: { lang: string }) {
                 width={72}
                 height={72}
                 style={{ width: 'auto', height: 'auto', maxWidth: '36px' }}
-                alt="Linkedin Logo"
+                alt="Github Logo"
+                loading="lazy"
+              />
+            </Link>
+            <Link
+              href="https://twitter.com/nachiketp87"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <Image
+                src="/x-logo-white.webp"
+                width={72}
+                height={72}
+                style={{ width: 'auto', height: 'auto', maxWidth: '36px' }}
+                alt="X logo"
                 loading="lazy"
               />
             </Link>
